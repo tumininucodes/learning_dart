@@ -6,4 +6,10 @@ void main() {
   }
 
     // while loop
+  var i = 0;
+
+  while (i < 4) {
+      print("Hello");
+      i++;
+  }
 }
