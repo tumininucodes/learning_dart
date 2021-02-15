@@ -4,7 +4,6 @@ void main() {
   switch (grade) {
     case 'A':
       print("Excellent grade");
-      print('yo!');
       break;
 
     case 'B':
