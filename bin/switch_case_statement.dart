@@ -1,5 +1,5 @@
 void main() {
-  String grade = "A";
+    String grade = "bsf";
 
   switch (grade) {
     case 'A':
@@ -9,5 +9,9 @@ void main() {
     case 'B':
       print("Very good");
       break;
+
+      default:
+          print("Invalid grade");
+          break;
   }
 }
