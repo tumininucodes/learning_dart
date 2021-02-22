@@ -12,4 +12,10 @@ void main() {
       print("Hello");
       i++;
   }
+
+  // do-while loop
+  do {
+      print("Hello");
+      i++;
+  } while (i < 4);
 }
