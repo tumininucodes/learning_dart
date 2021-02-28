@@ -7,4 +7,7 @@ in `lib/`, and example unit test in `test/`.
 
 * Variables types
 * Constants
-*
+* Conditional statements
+* Switch case statements
+* Loop control statements
+* Exploring "for" loop
